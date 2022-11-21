@@ -63,3 +63,16 @@
     color: crimson;
     transition: all .2s ease-in-out;
 }
+
+.title {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%;-50%);
+}
+
+.title h1{
+    font-family: sans-serif;
+    color: white;
+    font-size: 70px;
+}
